@@ -1,4 +1,4 @@
-# 3D-Car-Animation
+# 3D-Car-Animation | Jerson Mejía
 
 Now I wanted to do something different, I had already seen this project but I had no idea how to do it, now, practicing and even without understanding very well, I dared to create it, with the help of the internet but it was achieved.
 
